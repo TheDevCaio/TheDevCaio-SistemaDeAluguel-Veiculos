@@ -1,22 +1,22 @@
 DOCUMENTAÇÃO DO SOFTWARE
 
-Sumário
+Sumário:
 
-Introdução	3
+/Introdução	3/
 
-Objetivos do Projeto	3
+/Objetivos do Projeto	3/
 
-Público-alvo	3
+/Público-alvo	3/
 
-Requisitos Funcionais	3
+/Requisitos Funcionais	3/
 
-Arquitetura e Tecnologias Utilizadas	4
+/Arquitetura e Tecnologias Utilizadas	4/
 
-Fluxo de Funcionalidades	4
+/Fluxo de Funcionalidades	4/
 
-Diagrama de Caso de Uso	5
+/Diagrama de Caso de Uso	5/
 
-Descrição de caso de uso	5
+/Descrição de caso de uso	5/
 
 
  
