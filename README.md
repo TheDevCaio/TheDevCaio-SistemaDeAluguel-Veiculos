@@ -2,25 +2,25 @@ DOCUMENTAÇÃO DO SOFTWARE
 
 Sumário:
 
-/Introdução	3/
+/Introdução - pg 3/
 
-/Objetivos do Projeto	3/
+/Objetivos do Projeto - pg	3/
 
-/Público-alvo	3/
+/Público-alvo	3 - pg 3/
 
-/Requisitos Funcionais	3/
+/Requisitos Funcionais - pg 4/
 
-/Arquitetura e Tecnologias Utilizadas	4/
+/Arquitetura e Tecnologias Utilizadas	- pg 4/
 
-/Fluxo de Funcionalidades	4/
+/Fluxo de Funcionalidades	4 - pg 4/
 
-/Diagrama de Caso de Uso	5/
+/Diagrama de Caso de Uso	5 - pg 5/
 
-/Descrição de caso de uso	5/
+/Descrição de caso de uso	5 - pg 5/
 
 
  
-Introdução
+Introdução:
 
 Este documento descreve o projeto de desenvolvimento de software para o Sistema de Controle de Atendimento de Locação de Automóveis. O sistema tem como objetivo otimizar as operações da loja, facilitando o controle de cadastros, agendamentos, serviços e informações financeiras. Este documento detalha os requisitos do sistema, sua arquitetura, tecnologias utilizadas, interfaces de usuário e fluxos de trabalho.
 Objetivos do Projeto
