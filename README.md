@@ -1,5 +1,5 @@
 DOCUMENTAÇÃO DO SOFTWARE
- 
+
 Sumário
 Introdução	3
 Objetivos do Projeto	3
